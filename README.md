@@ -1,0 +1,2 @@
+# ExibirPares
+Exercício 02
